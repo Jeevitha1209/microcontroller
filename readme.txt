@@ -50,3 +50,4 @@ To debug in qspiflash, following steps are needed:
 2. Set the SW8: 1 off 2 off 3 on 4 off, then power on the board and connect USB cable to J23.
 3. Start debugging in IDE.
    - Keil: Click "Download (F8)" to program the image to qspiflash first then clicking "Start/Stop Debug Session (Ctrl+F5)" to start debugging.
+4. finish the program and got output.
